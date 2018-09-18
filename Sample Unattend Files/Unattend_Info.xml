@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UnattendInfo SectorCompatibility="1.0">
+	<Index XMLFile="SkipOOBEasAdmin.xml" Description="OOBE 건너뛰고 Administrator 계정으로 자동 로그온"/>
+	<Index XMLFile="1.xml" Description="국가 설정 스킵"/>
+	<Index XMLFile="2.xml" Description="표준 설치 Windows 8.1 용"/>
+	<Index XMLFile="protect3Win7.xml" Description="EULA 스킵, 프로텍트3 Windows 7 용"/>
+	
+</UnattendInfo>

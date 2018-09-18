@@ -1,0 +1,6 @@
+■수정 할 사항
+	WM_CLOSE 루프 안에서 종료를 감지할 때 현재 Sector를 찾는 변수를 문자열로 지정하지 말고 GetCurModulePath 함수로 얻기
+	해상도 설정 기능
+	Windows 설치가 어려우신가요?
+	Windows 설치 전 알아야할 내용
+	단축키
